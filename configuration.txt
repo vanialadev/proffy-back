@@ -8,5 +8,5 @@
     - criar arquivo de configuracao do typescript (tsconfig.json )
     - yarn tsc --init    
 4 passo
-    -
-    -
+    - adiciona um watch pro node 
+    - yarn add ts-node-dev -D
