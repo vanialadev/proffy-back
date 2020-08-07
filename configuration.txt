@@ -1,0 +1,12 @@
+1 passo
+    - criar o arquivo package.json
+    - ❯ yarn init -y 
+2 passo
+    - adicionar o typescript
+    - yarn add typescript -D
+3 passo
+    - criar arquivo de configuracao do typescript (tsconfig.json )
+    - yarn tsc --init    
+4 passo
+    -
+    -
